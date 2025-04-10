@@ -1,4 +1,4 @@
-# Notion Content Deadline Reminder
+# Blog Deadline Reminder
 
 This script checks a Notion database for pages representing content (like blog posts) and sends reminders to a Slack channel when specific deadlines (first draft, ready by, publishing date) are approaching (specifically, the next day).
 
