@@ -1,0 +1,3 @@
+notion-client
+slack-sdk
+python-dotenv
